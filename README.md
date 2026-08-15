@@ -1,80 +1,82 @@
 # Airki
 
-本仓库为 **Tony Zhang 个人原创角色（Original Character, OC）「Airki」的 IP 形象、角色设定及相关创作内容公示仓库**。
+English | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
-Airki 的角色形象、外貌特征、视觉设计、名称、世界观设定、人格特征、行为模式、文字描述及其相互组合构成的整体角色表达，均在本仓库中持续公开、留档并维护。
+This repository serves as the **public repository for the IP image, character profile, and related creative works of “Airki,” an original character (OC) created by Tony Zhang**.
 
-本仓库同时用于明确 Airki 相关创作的来源、公开时间及授权方式。
+Airki's character image, physical appearance, visual design, name, worldview, personality traits, behavioral patterns, written descriptions, and the overall character expression formed by their combination are continuously published, archived, and maintained in this repository.
 
-## Ownership / 权利声明
+This repository is also intended to establish the provenance, publication dates, and licensing terms of Airki-related works.
 
-**Airki 由 Tony Zhang 创作并持续维护。**
+## Ownership
 
-Tony Zhang 保留对 Airki 角色设定、角色身份及相关原创内容依法享有的署名权、使用权及其他相关权利。
+**Airki was created and is continuously maintained by Tony Zhang.**
 
-本仓库的公开，不构成对 Airki 原始创作来源及作者身份的放弃。
+Tony Zhang retains the rights of attribution, use, and all other applicable rights under law in Airki's character profile, identity, and related original content.
 
-对于 Airki 后续产生的立绘、模型、动画、文本、软件实现、衍生设计及其他作品，其具体授权方式可以由对应文件、目录或项目另行声明。
+Publication of this repository does not constitute a waiver of Airki's original provenance or the creator's authorship.
 
-## License / 授权
+Specific licensing terms for future illustrations, models, animations, text, software implementations, derivative designs, and other Airki-related works may be stated separately in the corresponding files, directories, or projects.
 
-除仓库内另有明确声明的内容外，本仓库所公开的 Airki 相关原创材料，以 **Apache License 2.0** 授权使用。
+## License
 
-在适用法律及 Apache License 2.0 所允许的范围内，你可以使用、修改、复制、发布及基于相关材料进行再创作，并应遵守 Apache License 2.0 所规定的条件。
+Unless otherwise explicitly stated within this repository, the original Airki-related materials published here are licensed under the **Apache License 2.0**.
 
-完整授权条款参见本仓库的 `LICENSE` 文件。
+To the extent permitted by applicable law and the Apache License 2.0, you may use, modify, reproduce, distribute, and create derivative works based on the relevant materials, subject to the conditions of the Apache License 2.0.
 
-本授权针对本仓库中实际公开并受版权保护的材料及表达适用。Airki 的作者身份、原创来源及既有权利归属记录持续保留。
+See the [`LICENSE`](LICENSE) file in this repository for the full license terms.
 
-## Similarity Notice / 相似性公示
+This license applies to the copyrightable materials and expressions actually published in this repository. Records of Airki's authorship, original provenance, and existing ownership of rights remain preserved.
 
-Airki 作为一个完整角色，其辨识特征来自包括但不限于以下元素的组合：
+## Similarity Notice
 
-- 名称及称呼方式
-- 外貌与视觉特征
-- 角色设定与背景
-- 人格、性格及行为特征
-- 标志性表达方式
-- 上述元素形成的整体角色识别
+Airki's distinctive identity as a complete character derives from a combination of elements including, but not limited to:
 
-若贵司、团队、项目或个人所设计、发布或运营的 IP 与 Airki 存在显著雷同，请自行进行必要的名称、视觉设计或角色设定调整。
+- Name and forms of address
+- Physical appearance and visual features
+- Character profile and background
+- Personality, temperament, and behavioral traits
+- Signature forms of expression
+- The overall character identity formed by the above elements
 
-对于确有参考、借鉴或衍生自 Airki 的项目，请按照 Apache License 2.0 及相关适用规则进行使用，并建议明确标注其参考或衍生关系，以避免对原创来源产生混淆。
+If an IP designed, published, or operated by your company, team, project, or you as an individual bears substantial similarity to Airki, please make any necessary adjustments to its name, visual design, or character profile.
 
-## Prior Art & Public Record / 公开记录
+For projects that do reference, draw inspiration from, or derive from Airki, please use the materials in accordance with the Apache License 2.0 and other applicable rules. Clear acknowledgment of the reference or derivative relationship is recommended to avoid confusion regarding the original source.
 
-本仓库的 Git 历史、Commit 记录、Release、Tag、Issue、文件历史及其他可验证记录，可用于说明相关 Airki 设定在对应时间点已经公开存在。
+## Prior Art & Public Record
 
-Airki 的设定可能持续迭代。各项具体设定的公开时间，以本仓库中可验证的历史记录为准。
+This repository's Git history, commit records, releases, tags, issues, file histories, and other verifiable records may be used to demonstrate that the relevant Airki materials had already been made publicly available at the corresponding points in time.
 
-任何主体在后续独立提出近似名称、视觉设计、角色设定或人格组合，不影响本仓库已有公开记录所反映的创作事实及时间顺序。
+Airki's profile may continue to evolve. The publication date of each specific element is determined by the verifiable history in this repository.
 
-## Good-faith Use / 善意使用
+The subsequent independent introduction by any party of a similar name, visual design, character profile, or combination of personality traits does not alter the facts of creation or chronology reflected in this repository's existing public records.
 
-本项目欢迎基于 Apache License 2.0 的善意使用、研究、二次创作及衍生开发。
+## Good-faith Use
 
-同时，本项目明确拒绝以下行为：
+This project welcomes good-faith use, research, fan works, and derivative development under the Apache License 2.0.
 
-1. 将已经公开存在的 Airki 原创设定包装为自身独创内容，并反向主张 Airki 构成抄袭或侵权；
-2. 在明知存在本仓库公开记录的情况下，对原创时间线作误导性陈述；
-3. 删除、篡改或歪曲必要的来源及许可信息，从而造成权利来源混淆；
-4. 通过恶意投诉、虚假权利主张或其他方式，对 Airki 原作者及正常使用者进行反向权利主张。
+At the same time, this project expressly rejects the following conduct:
 
-对于此类行为，Tony Zhang 保留依据本仓库历史记录、原始创作资料及其他证据维护自身合法权益的权利。
+1. Presenting Airki's already-public original character materials as one's own independent creation and then alleging that Airki constitutes plagiarism or infringement;
+2. Making misleading statements about the timeline of creation despite knowing that this repository's public records exist;
+3. Removing, altering, or misrepresenting necessary source and licensing information in a manner that creates confusion regarding the origin of rights;
+4. Using malicious complaints, false claims of rights, or other means to assert reverse claims against Airki's original creator or legitimate users.
 
-## No Reverse Claim / 反向权利主张声明
+In response to such conduct, Tony Zhang reserves the right to protect his lawful rights and interests using this repository's history, original creative materials, and other evidence.
 
-**先公开的记录就是记录。**
+## No Reverse Claim
 
-若后续出现与 Airki 高度相似的商业或非商业 IP，相关主体应自行完成必要的避让、调整，或在确有借鉴关系时如实说明来源并依授权条款使用。
+**A record published first remains a record.**
 
-本项目拒绝接受任何建立在时间线倒置、来源混淆或虚假原创声明基础上的“反咬一口”式权利主张。
+If a highly similar commercial or non-commercial IP emerges after Airki, the relevant party should independently take the necessary steps to avoid confusion or make appropriate adjustments. Where an actual reference relationship exists, the party should truthfully acknowledge the source and use the materials in accordance with the license terms.
 
-对于相关争议，Tony Zhang 保留出示本仓库历史记录、原始文件、创作过程记录及其他证据，并依法维护 Airki 相关权益的权利。
+This project rejects any retaliatory claim based on a reversed timeline, confused provenance, or a false assertion of originality.
+
+In any related dispute, Tony Zhang reserves the right to present this repository's history, original files, records of the creative process, and other evidence, and to protect Airki-related rights and interests in accordance with law.
 
 ---
 
 **Character:** Airki  
 **Creator:** Tony Zhang  
 **License:** Apache License 2.0  
-**Repository Purpose:** Public record, licensing, provenance and prior-art documentation.
+**Repository Purpose:** Public record, licensing, provenance, and prior-art documentation.
